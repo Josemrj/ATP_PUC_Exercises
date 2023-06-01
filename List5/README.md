@@ -1,7 +1,8 @@
 ## Lista de Exercícios 5 – Estruturas Homogêneas
 
 O código deve ser comentado com indicação das principais decisões sobre os comandos escolhidos.
- 
+##
+
 1.	Faça um algoritmo que leia um vetor N[20]. A seguir, encontre o menor elemento do vetor N e a sua posição dentro do vetor, mostrando: “O menor elemento de N é”, M, “e sua posição dentro do vetor é:”,P. 
 ##
 
